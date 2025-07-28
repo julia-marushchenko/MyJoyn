@@ -10,7 +10,7 @@ public class Main {
         // Creating string with parameters: separator, list of elements
        String fruits = String.join(" ","Mango", "Melon", "Cherry");
 
-       // Printing string with name fruits to console
+       // Printing string with name of fruits to console
        System.out.println(fruits);
     }
 }
